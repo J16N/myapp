@@ -1,0 +1,23 @@
+.jumbotron {
+
+	text-align: center;
+	margin-top: 50px;
+	background-image: url(images/cover.jpeg); 
+
+}
+
+#footer {
+  
+	background-color: #88F1F1;
+	padding-top: 150px;
+	margin-top: 50px;
+	text-align: center;
+	padding-bottom: 150px;
+	width: 100%;
+}
+
+body {
+
+	position: relative;
+
+}
